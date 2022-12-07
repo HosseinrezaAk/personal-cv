@@ -2,7 +2,12 @@
     Selector { property: value;} 
     https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
 */
-
+body{
+    margin: 0;
+}
+h1{
+    margin-top:0;
+}
 div{
     background-color: #62B6B7;
 }
