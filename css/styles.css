@@ -11,6 +11,9 @@ h1{
 .top-container{
     background-color: #62B6B7;
 }
-.bottom-container{
+.middle-container{
     background-color: red;
+}
+.bottom-container{
+    background-color: blue;
 }
