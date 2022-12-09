@@ -8,6 +8,6 @@ body{
 h1{
     margin-top:0;
 }
-div{
+.top-container{
     background-color: #62B6B7;
 }
