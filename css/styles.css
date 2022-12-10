@@ -18,4 +18,6 @@ h1{
 }
 .bottom-container{
     background-color: blue;
+    height: 200px;
+    width: 200px;
 }
