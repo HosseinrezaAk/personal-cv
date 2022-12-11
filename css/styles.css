@@ -26,11 +26,14 @@ h1{
 }
 
 .top-cloud{
-    position: relative;
-    left: 100px;
+    position: absolute;
+    right: 400px;
+    top: 50px;
 }
 
 .bottom-cloud{
     position: absolute;
+    left: 400px;
+    bottom: 300px;
     
 }
