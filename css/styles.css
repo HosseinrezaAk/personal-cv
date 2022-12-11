@@ -11,6 +11,8 @@ h1{
 }
 .top-container{
     background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
 }
 .middle-container{
     background-color: red;
