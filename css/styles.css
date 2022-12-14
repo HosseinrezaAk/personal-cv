@@ -13,6 +13,7 @@ h1{
     font-family: 'Sacramento', cursive;
 }
 h2{
+    font-size: 2.5rem;
     font-family: 'Montserrat', sans-serif;
 }
 h3{
@@ -22,6 +23,7 @@ h3{
     background-color: #E4F9F5;
     position: relative;
     padding-top: 100px;
+    
 }
 .middle-container{
     
