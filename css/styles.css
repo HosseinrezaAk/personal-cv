@@ -56,3 +56,7 @@ a{
     width: 200px;
     height: 200px;
 }
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
