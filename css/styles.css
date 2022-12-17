@@ -64,6 +64,11 @@ a{
 }
 .code-gif{
     width: 25%;
-    margin: 0;
-    
+    margin-right: 30px;
+    float:left;
+}
+.award-gif{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
 }
