@@ -72,7 +72,6 @@ a{
     float: right;
     margin-left: 30px;
 }
-.code-skill-p{
-    clear:left;
+/* .code-skill-p{
+    clear:left;   it will clear the float css == anti-float
 }
-
