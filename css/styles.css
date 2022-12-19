@@ -77,3 +77,9 @@ a{
 /* .code-skill-p{
     clear:left;   it will clear the float css == anti-float
 }
+*/
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
