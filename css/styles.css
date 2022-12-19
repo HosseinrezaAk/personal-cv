@@ -29,6 +29,11 @@ h3{
 a{
     color: #11999E;
 }
+
+hr{
+    border: dotted #EAF6F6 6px;
+}
+
 .top-container{
     background-color: #E4F9F5;
     position: relative;
