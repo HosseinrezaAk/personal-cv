@@ -28,6 +28,9 @@ h3{
 }
 a{
     color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    
 }
 
 hr{
@@ -47,7 +50,8 @@ hr{
     margin: 100px 0;
 }
 .bottom-container{
-
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
 }
 
 .top-cloud{
