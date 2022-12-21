@@ -97,6 +97,7 @@ hr{
 .intro{
     width: 30%;
     margin: auto;
+    line-height: 1.5;
 }
 
 .contact-message{
